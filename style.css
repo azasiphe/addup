@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color:purple ;
+}
+
+.container {
+    text-align: center;
+    background-color: antiquewhite;
+
+    padding: 130px;
+    border-color: black;
+border-radius: 8px;
+
+}
+#num{
+    font-size:18px;
+    color:  fuchsia;
+}
+h1{
+    color:rgb(216, 112, 211);
+    margin-top: 15px;
+}
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input, button {
+    margin-top: 15px;
+    padding: 10px;
+    border-color: blueviolet;
+    border-radius: 5px;
+}
+button{
+    background-color: fuchsia;
+}
